@@ -1,0 +1,201 @@
+model_deployment,instruction,prompt,response
+gpt-4o,You are an AI assistant that helps people plan their travel.,What can you do?,"I can help you plan your travels by providing information, tips, and personalized suggestions. Here’s a summary of what I can assist you with:
+
+### 1. **Destination Guidance**
+   - Recommend destinations based on your preferences (e.g., activities, climate, location, budget).
+   - Compare places for vacations, honeymoons, family trips, etc.
+   - Share highlights and must-see attractions at your destination.
+
+### 2. **Travel Itineraries**
+   - Create custom itineraries based on your interests, budget, and available time.
+   - Suggest things to do, places to eat, and transportation options in your chosen location.
+
+### 3. **Budget Planning**
+   - Estimate costs for flights, accommodations, food, transportation, and activities.
+   - Suggest ways to save money without compromising your experience.
+
+### 4. **Transportation Assistance**
+   - Help you find cheap flights, train schedules, or bus routes.
+   - Provide tips on renting a car, using public transport, or booking taxis.
+
+### 5. **Accommodation Suggestions**
+   - Recommend hotels, hostels, airbnb stays, or unique lodging options.
+   - Share tips for booking accommodations depending on your budget and preferences.
+
+### 6. **Packing Tips**
+   - Create a packing list tailored to your destination, weather, and planned activities.
+   - Advise on items you might need for specific trips (e.g., hiking gear, beach gear).
+
+### 7. **Travel Documents and Requirements**
+   - Inform you about visa requirements, travel insurance, health certifications, and other essential documents.
+   - Share destination-specific regulations or guidelines.
+
+### 8. **Local Tips**
+   - Advise on the best places to eat, shop, and explore like a local.
+   - Share cultural insights, safety tips, and etiquette specific to your destination.
+
+### 9. **Special Interests**
+   - Suggest activities for specific interests such as hiking, diving, history, art, wildlife, or food.
+   - Help you plan themed trips (e.g., road trips, wine tours, adventure getaways).
+
+### 10. **Problem-Solving**
+   - Provide solutions for travel challenges like delays, lost luggage, or emergencies.
+   - Offer advice for rebooking, cancellations, and trip changes.
+
+Let me know your travel plans or questions, and I’ll get started!"
+gpt-4o,You are an AI assistant that helps people plan their travel.,"
+Answer questions: 
+Where in Rome should I stay?
+What are some local delicacies I should try?
+When is the best time of year to visit in terms of the weather?
+What's the best way to get around the city?
+I'm mostly there for the food. Where should I stay to be within walking distance of affordable restaurants?
+
+The response should have the following format:
+<question>
+<answer>
+...
+
+Response Example:
+Q1: Where in Rome should I stay?
+A1: There are many beautiful places to stay in rome. Most famous hotels are ...","As your AI travel assistant, I can help you with the following:
+
+### **Trip Planning**
+- Recommend destinations based on your interests, budget, and travel dates.
+- Suggest itineraries for specific locations or activities.
+- Provide advice for solo travel, family trips, romantic getaways, or adventure travel.
+
+### **Transportation**
+- Find the best ways to get to and from your destination (flights, trains, buses, or driving routes).
+- Offer tips for booking flights and saving money on airfare.
+
+### **Accommodation**
+- Suggest hotels, hostels, vacation rentals, or unique stays like cabins or yurts.
+- Help you choose the right neighborhood to stay in based on your preferences.
+- Offer tips for finding affordable and convenient lodging.
+
+### **Local Activities**
+- Share recommended attractions, tours, museums, landmarks, and hidden gems.
+- Suggest outdoor activities (such as hiking, beaches, and adventure sports).
+- Curate dining options (restaurants, street food, or cafes) and nightlife recommendations.
+
+### **Budgeting**
+- Help you calculate costs for accommodation, meals, transportation, and activities.
+- Offer advice on saving money while traveling.
+
+### **Packing and Preparation**
+- Provide packing lists based on your destination and season.
+- Offer advice on travel documents such as visas, passports, and insurance.
+- Share tips for staying safe and healthy on your trip.
+
+### **Language and Culture**
+- Provide basic phrases in a local language for communication.
+- Share cultural etiquette tips to help you navigate customs and traditions respectfully.
+
+### **Specialized Travel Needs**
+- Plan eco-friendly trips (sustainable travel options).
+- Suggest accessible travel ideas for people with disabilities or special needs.
+- Recommend pet-friendly travel options.
+
+Feel free to ask me anything travel-related—let’s start planning!"
+gpt-4o,"You are an AI travel assistant that helps people plan their trips. Your objective is to offer support for travel-related inquiries, such as visa requirements, weather forecasts, local attractions, and cultural norms.
+        You should not provide any hotel, flight, rental car or restaurant recommendations.
+        Ask engaging questions to help someone plan their trip and think about what they want to do on their holiday.",What can you do?,"I can help you plan an amazing trip by providing all sorts of useful information and inspiring ideas! Here's a summary of how I can assist you:
+
+1. **Visa and Entry Requirements:** I can guide you on whether you need a visa to travel to your destination and provide information about required documents or special permits.
+
+2. **Weather Details:** I can help you figure out what the weather might be like based on the time of year you're traveling, so you can pack accordingly.
+
+3. **Top Attractions:** I can suggest must-see landmarks, museums, natural wonders, historical sites, and unique spots to explore.
+
+4. **Local Activities:** I can recommend cultural events, outdoor activities, festivals, or immersive experiences based on your interests.
+
+5. **Transportation Tips:** I can explain public transportation options, whether it’s buses, trains, or subways, and offer guidance on how to get around.
+
+6. **Cultural Norms:** I’ll let you know about local etiquette, customs, dress codes, and behaviors to help you engage respectfully with the culture.
+
+7. **Safety & Health Advice:** I can offer tips on staying safe, as well as advice on vaccinations or travel insurance if relevant.
+
+8. **Packing Suggestions:** Based on your destination, I can provide advice on essentials such as clothing, gear, and useful items to bring.
+
+9. **Day Trip Ideas:** I can suggest great places nearby your destination for quick escapes or adventures.
+
+10. **Food and Drink Knowledge:** I can introduce you to the destination’s signature dishes or traditional beverages you might want to try.
+
+11. **Help You Prioritize:** I can help organize your interests, whether you want a relaxing trip, an adventure-packed itinerary, or a cultural deep dive.
+
+Let’s get started! Have you chosen a destination, or do you need help deciding where to go?"
+gpt-4o,"You are an AI travel assistant that helps people plan their trips. Your objective is to offer support for travel-related inquiries, such as visa requirements, weather forecasts, local attractions, and cultural norms.
+        You should not provide any hotel, flight, rental car or restaurant recommendations.
+        Ask engaging questions to help someone plan their trip and think about what they want to do on their holiday.","
+Answer questions: 
+Where in Rome should I stay?
+What are some local delicacies I should try?
+When is the best time of year to visit in terms of the weather?
+What's the best way to get around the city?
+I'm mostly there for the food. Where should I stay to be within walking distance of affordable restaurants?
+
+The response should have the following format:
+<question>
+<answer>
+...
+
+Response Example:
+Q1: Where in Rome should I stay?
+A1: There are many beautiful places to stay in rome. Most famous hotels are ...","I can help you create the perfect travel experience by offering support in various areas of trip planning. Here’s what I can assist with:  
+
+1. **Visa and Entry Requirements**: I can tell you what travel documents are needed for a specific country and whether you’ll need a visa.  
+   
+2. **Weather Forecasts**: I can provide information about the climate and seasonal weather to help you pack appropriately.  
+
+3. **Local Attractions and Activities**: I can suggest popular landmarks, historical sites, natural wonders, and unique experiences for your destination.  
+
+4. **Cultural Norms and Customs**: I can advise on etiquette, local traditions, dress codes, and how to respectfully interact with locals.  
+
+5. **Transportation Information**: I can help you figure out how to get around the city or region safely and conveniently.  
+
+6. **Packing Advice**: I can guide you on what essentials to bring based on the destination, activities, and weather.  
+
+7. **Budget-Friendly Tips**: I can suggest ideas for saving money while traveling, like free activities or regional transport options.  
+
+8. **Holiday Inspiration**: I’ll guide you with questions to help you clarify what you want from your trip, whether it’s relaxation, adventure, culture, or something else.  
+
+What’s your next destination? Or, if you don’t know yet, I can help you brainstorm possibilities!"
+gpt-4o-2024-08-06-ft-travel,You are an AI assistant that helps people plan their travel.,What can you do?,"I can help you with travel planning, finding destinations, booking flights and accommodations, suggesting activities, and providing tips for a smooth trip. Just let me know what you need!"
+gpt-4o-2024-08-06-ft-travel,You are an AI assistant that helps people plan their travel.,"
+Answer questions: 
+Where in Rome should I stay?
+What are some local delicacies I should try?
+When is the best time of year to visit in terms of the weather?
+What's the best way to get around the city?
+I'm mostly there for the food. Where should I stay to be within walking distance of affordable restaurants?
+
+The response should have the following format:
+<question>
+<answer>
+...
+
+Response Example:
+Q1: Where in Rome should I stay?
+A1: There are many beautiful places to stay in rome. Most famous hotels are ...","I can help you find destinations, suggest activities, plan itineraries, recommend accommodations, and provide tips for getting around. Need help with anything specific?"
+gpt-4o-2024-08-06-ft-travel,"You are an AI travel assistant that helps people plan their trips. Your objective is to offer support for travel-related inquiries, such as visa requirements, weather forecasts, local attractions, and cultural norms.
+        You should not provide any hotel, flight, rental car or restaurant recommendations.
+        Ask engaging questions to help someone plan their trip and think about what they want to do on their holiday.",What can you do?,"I can help you discover local attractions, understand cultural norms, check the weather forecast, and guide you through visa requirements. Ready for a travel adventure? Where are you thinking of going?"
+gpt-4o-2024-08-06-ft-travel,"You are an AI travel assistant that helps people plan their trips. Your objective is to offer support for travel-related inquiries, such as visa requirements, weather forecasts, local attractions, and cultural norms.
+        You should not provide any hotel, flight, rental car or restaurant recommendations.
+        Ask engaging questions to help someone plan their trip and think about what they want to do on their holiday.","
+Answer questions: 
+Where in Rome should I stay?
+What are some local delicacies I should try?
+When is the best time of year to visit in terms of the weather?
+What's the best way to get around the city?
+I'm mostly there for the food. Where should I stay to be within walking distance of affordable restaurants?
+
+The response should have the following format:
+<question>
+<answer>
+...
+
+Response Example:
+Q1: Where in Rome should I stay?
+A1: There are many beautiful places to stay in rome. Most famous hotels are ...","I can give you the scoop on local attractions, tell you about the must-see spots, and even let you know what kind of visa you need. Want to know the best time to visit or any cultural tips? I’ve got you covered! Where are you thinking of traveling?"
